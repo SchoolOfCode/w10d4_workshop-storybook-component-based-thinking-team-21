@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6825548&assignment_repo_type=AssignmentRepo)
 # Build Your Own Blog With Components
 
 This repository contains two generic components, and one component that needs refactoring. Each component folder also contains a `stories.js` file, exporting an example of the component to storybook. You can view the storybook for the app by running `npm run storybook` in the console. Use these components as a guide to producing your own generic components.
