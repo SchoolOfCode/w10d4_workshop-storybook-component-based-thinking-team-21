@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 function SubmitButton({ handleSubmit }) {
   return (
-    <button style={{ backgroundColor: 'red' }} onClick={handleSubmit}>
+    <button style={{ backgroundColor: "red" }} onClick={handleSubmit}>
       Submit
     </button>
   );
