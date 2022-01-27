@@ -6,7 +6,7 @@ export default {
   component: SubmitButton,
 };
 
-export const button = () => {
+export const Button = () => {
   return (
     <>
       <SubmitButton
